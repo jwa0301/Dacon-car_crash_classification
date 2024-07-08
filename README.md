@@ -1,5 +1,5 @@
 # Dacon-car_crash_classification
-데이콘 자동차 충돌 분석 AI경진대회(8등/965명)
+코스포 x 데이콘 자동차 충돌 분석 AI경진대회(8등/965명)
 - 13개 label로 이루어진 video classification
 
 
